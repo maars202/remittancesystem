@@ -28,6 +28,8 @@ public class EverywhereRemit extends Remittance{
     private String amount;
 
     public EverywhereRemit(){
+
+        
         
 
     }
